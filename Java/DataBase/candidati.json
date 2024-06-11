@@ -1,0 +1,34 @@
+[
+  {
+    "nume": "Popescu Ion",
+    "optiuni": [
+      {"codProgram": 28,"punctaj": 7.46 },
+      {"codProgram": 29,"punctaj": 6.45 }
+    ]
+  },
+  {
+    "nume": "Ioana Andreea",
+    "optiuni": [
+      {"codProgram": 42,"punctaj": 7.46 },
+      {"codProgram": 43,"punctaj": 8.46 },
+      {"codProgram": 28,"punctaj": 9.45 }
+    ]
+  },
+  {
+    "nume": "Ioan Raul",
+    "optiuni": [
+      {"codProgram": 44,"punctaj": 7.46 },
+      {"codProgram": 42,"punctaj": 8.46 },
+      {"codProgram": 28,"punctaj": 9.45 }
+    ]
+  },
+  {
+    "nume": "Raul Andrei",
+    "optiuni": [
+      {"codProgram": 47,"punctaj": 7.46 },
+      {"codProgram": 49,"punctaj": 8.46 },
+      {"codProgram": 44,"punctaj": 9.45 },
+      {"codProgram": 43,"punctaj": 9.45 }
+    ]
+  }
+ ]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LvLD9X7h7Bl1FR+VOdvCzWKYKEGgi++TT8QM8OjGGFZK7mVjWegfBNRa8lBHztIbn3NFlKPb6pPglSRtl0b1Q==",
+  "success": true,
+  "projectFilePath": "/home/X/Documents/Facultate/C#/Proiect/ShowCase/ShowCase.csproj",
+  "expectedPackageFiles": [
+    "/home/X/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

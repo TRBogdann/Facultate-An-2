@@ -1,0 +1,11 @@
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/bin/Debug/net8.0/StringLibrary.deps.json
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/bin/Debug/net8.0/StringLibrary.dll
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/bin/Debug/net8.0/StringLibrary.pdb
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/StringLibrary.AssemblyInfoInputs.cache
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/StringLibrary.AssemblyInfo.cs
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/StringLibrary.dll
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/refint/StringLibrary.dll
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/StringLibrary.pdb
+/home/X/Documents/Facultate/C#/Proiect/StringLibrary/obj/Debug/net8.0/ref/StringLibrary.dll

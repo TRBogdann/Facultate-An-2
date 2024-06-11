@@ -1,0 +1,7 @@
+1,Alune,2.90
+2,Nuci,1.43
+3,Mere,3.80
+4,Portocale,7.29
+5,Telina,9.23
+6,Morcovi,7.45
+7,Cartofi,2.34

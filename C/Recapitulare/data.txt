@@ -1,0 +1,5 @@
+1 2.7 Alune
+2 3.3 Cozonac
+3 1.2 Mere
+4 3.8 Miere
+5 2.9 Ciocolata

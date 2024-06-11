@@ -1,0 +1,4 @@
+Numar Inventar: 1 Denumire:Sediu Central Uzura:10000.000000
+Numar Inventar: 2 Denumire:Autoturism Renault Uzura:1500.000000
+Numar Inventar: 3 Denumire:Punct de lucru Covasna Uzura:2000.000000
+Numar Inventar: 100 Denumire:Semanatoare John Deer Uzura:5000.000000

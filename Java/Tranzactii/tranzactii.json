@@ -1,0 +1,37 @@
+[
+  {
+    "cod": 1,
+    "cantitate": 9,
+    "tip":"iesire"
+  },
+  {
+    "cod": 2,
+    "cantitate": 7,
+    "tip":"iesire"
+  },
+  {
+    "cod": 3,
+    "cantitate": 6,
+    "tip":"iesire"
+  },
+  {
+    "cod": 2,
+    "cantitate": 5,
+    "tip":"intrare"
+  },
+  {
+    "cod": 1,
+    "cantitate": 7,
+    "tip":"intrare"
+  },
+  {
+    "cod": 4,
+    "cantitate": 2,
+    "tip":"iesire"
+  },
+  {
+  "cod": 3,
+  "cantitate": 2,
+  "tip":"iesire"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWNvBNrRhA6TsHTSLzPIy6prDeYqWZF95+hg3MrJYSy4ZM7SV4TadVpJeCqOzwHXReqiSNB7WuvrXAn8IeMAQA==",
+  "success": true,
+  "projectFilePath": "/home/X/Documents/Facultate/C#/seminar2/seminar2.csproj",
+  "expectedPackageFiles": [
+    "/home/X/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

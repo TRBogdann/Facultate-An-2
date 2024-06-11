@@ -1,0 +1,7 @@
+Denumire:Alune,Numar: 2
+Denumire:Nuci,Numar: 2
+Denumire:Mere,Numar: 2
+Denumire:Portocale,Numar: 1
+Denumire:Morcovi,Numar: 0
+Denumire:Cartofi,Numar: 0
+Denumire:Telina,Numar: 0

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgt57Kr/5OLr8TGvDFsF9maLZv8qfik8KyCM/atkTpRg791Hgw0h0Tcgl50D0IFuwTjYH9YPz/xE957sAqOpvA==",
+  "success": true,
+  "projectFilePath": "/home/X/Documents/Facultate/C#/Proiect/StringLibrary/StringLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/X/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+Baze de Date,Raul Andrei,7.46
+SI pentru management,Ioan Raul,7.46
+SI pentru management,Raul Andrei,9.45
+Informatica Economica,Popescu Ion,6.45
+Finante Corporative,Raul Andrei,9.45
+Finante Corporative,Ioana Andreea,8.46
+Staticica aplicata,Ioan Raul,9.45
+Staticica aplicata,Popescu Ion,7.46
+Staticica aplicata,Ioana Andreea,9.45
+Finante Banci,Ioan Raul,8.46
+Finante Banci,Ioana Andreea,7.46
+E-Business,Raul Andrei,8.46

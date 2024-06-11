@@ -1,0 +1,14 @@
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.AssemblyInfoInputs.cache
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.AssemblyInfo.cs
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.csproj.CoreCompileInputs.cache
+/home/X/Documents/Facultate/C#/seminar1/bin/Debug/net8.0/seminar1
+/home/X/Documents/Facultate/C#/seminar1/bin/Debug/net8.0/seminar1.deps.json
+/home/X/Documents/Facultate/C#/seminar1/bin/Debug/net8.0/seminar1.runtimeconfig.json
+/home/X/Documents/Facultate/C#/seminar1/bin/Debug/net8.0/seminar1.dll
+/home/X/Documents/Facultate/C#/seminar1/bin/Debug/net8.0/seminar1.pdb
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.dll
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/refint/seminar1.dll
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.pdb
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/seminar1.genruntimeconfig.cache
+/home/X/Documents/Facultate/C#/seminar1/obj/Debug/net8.0/ref/seminar1.dll
